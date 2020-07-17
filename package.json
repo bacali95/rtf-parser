@@ -32,18 +32,6 @@
   ],
   "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
   "license": "ISC",
-  "files": [
-    "index.js",
-    "rtf-interpreter.js",
-    "rtf-parser.js",
-    "rtf-group.js",
-    "rtf-document.js",
-    "rtf-paragraph.js",
-    "rtf-span.js"
-  ],
-  "directories": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bacali/rtf-parser.git"
